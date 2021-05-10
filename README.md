@@ -1,2 +1,6 @@
 # Box-Bird-Game
-[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)
+ <p align="center">
+  <a href="https://www.hackerrank.com/veerasharma0000">
+     <img src="box-gif" width="800" height="400">
+  </a></p>
+
